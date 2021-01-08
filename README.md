@@ -3,7 +3,7 @@
 - [Github]("https://github.com/tanazradvr")
 - [resume]("https://tanazradvr.github.io/")
 - [SOP]("https://tanazradvr.github.io/sop")
-- [javascript Certificate]
+- [javascript Certificate]("https://github.com/tanazradvr/PNU_3991_AR/blob/main/JS.jpeg")
 - [jlord patchwork]
 
 
